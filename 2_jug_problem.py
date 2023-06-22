@@ -5,6 +5,7 @@ jugAi = int(input("Enter the initial capacity of A "))
 jugBi = int(input("Enter the initial capacity of B "))
 jugAf = int(input("Enter the final state "))
 
+
 print("Operations")
 print("1: Fill the Jug A completely")
 print("2: Fill the Jug b completely")
