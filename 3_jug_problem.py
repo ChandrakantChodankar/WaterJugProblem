@@ -1,4 +1,4 @@
-x = int(input("capacity of jug A: "))
+x = int(input("Capacity of jug A: "))
 y = int(input("capacity of jug B: "))
 z = int(input("capacity of jug C: "))
 
