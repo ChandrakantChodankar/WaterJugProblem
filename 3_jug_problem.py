@@ -1,5 +1,5 @@
 x = int(input("Capacity of jug A: "))
-y = int(input("capacity of jug B: "))
+y = int(input("Capacity of jug B: "))
 z = int(input("capacity of jug C: "))
 
 initial_state = (8, 0, 0)
