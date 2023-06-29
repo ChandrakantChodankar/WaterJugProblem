@@ -18,7 +18,7 @@ print("8: Pour the water from Jug A to jug B")
 
 
 while (jugAi != jugAf):
-    op = int(input("Enter the operation: "))
+    op = int(input("Select the operation: "))
     if (op == 1):
         jugAi = jugA
 
