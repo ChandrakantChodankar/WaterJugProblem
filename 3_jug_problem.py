@@ -6,7 +6,7 @@ initial_state = (8, 0, 0)
 visited = {}
 path = []
 
-goala = int(input("final capacity of jug A: "))
+goala = int(input("Final capacity of jug A: "))
 goalb = int(input("final capacity of jug B: "))
 
 
