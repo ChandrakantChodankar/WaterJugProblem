@@ -7,7 +7,7 @@ visited = {}
 path = []
 
 goala = int(input("Final capacity of jug A: "))
-goalb = int(input("final capacity of jug B: "))
+goalb = int(input("Final capacity of jug B: "))
 
 
 def waterjugstate(state):
